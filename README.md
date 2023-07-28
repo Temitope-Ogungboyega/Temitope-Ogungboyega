@@ -8,6 +8,8 @@
 
 - 📫 How to reach me: Temitope.Ogungboyega@gmail.com
 
+- ⚡ Skilled in SQL, R, Python, Tableau and Power BI
+
 - ⚡ Fun fact: I love football and supporting Arsenal
 <!---
 Temitope-Ogungboyega/Temitope-Ogungboyega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
